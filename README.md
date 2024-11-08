@@ -1,3 +1,7 @@
+- 👋 Hi, I’m @preciousshubh
+- 👀 I have created this plugin
+
+
 # Book Management System Plugin for WordPress
 
 ## Overview
